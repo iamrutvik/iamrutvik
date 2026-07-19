@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="logo.png" width="240" alt="Rutvik Bhatt" />
+  <img src="logo.png?v=1" width="240" alt="Rutvik Bhatt" />
 </div>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamrutvik/iamrutvik/master/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamrutvik/iamrutvik/master/light.svg">
-  <img src="https://raw.githubusercontent.com/iamrutvik/iamrutvik/master/light.svg" alt="Rutvik Bhatt — Senior Engineering Manager, Delivery Hero" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamrutvik/iamrutvik/master/dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamrutvik/iamrutvik/master/light.svg?v=1">
+  <img src="https://raw.githubusercontent.com/iamrutvik/iamrutvik/master/light.svg?v=1" alt="Rutvik Bhatt — Senior Engineering Manager, Delivery Hero" width="100%">
 </picture>
 
 <br/><br/>
